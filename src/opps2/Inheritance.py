@@ -1,0 +1,1 @@
+created inheritance file
