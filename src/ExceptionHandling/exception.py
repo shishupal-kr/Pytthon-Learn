@@ -13,4 +13,4 @@ except Exception: # handle any error
     print("Something went wrong.")
 
 finally:
-    print("Thank you")
+    print("thank you")
