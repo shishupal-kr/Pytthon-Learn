@@ -17,7 +17,6 @@ b1 = Bike()
 
 print(b1.start())
 print(b1.stop())
-
 print(Bike.company)
 print(Bike.model)
 
