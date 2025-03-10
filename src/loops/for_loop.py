@@ -11,8 +11,15 @@ else:
     print("end of list")
 
 
-#range() method
+#range() method -
 # for i in range(10): #range(stop)
+for i in range(10):
+    print(i)
+
 # for i in range(2, 10): #range(start, stop)
-for i in range(2,10,3):  #range(start,stop,step)
+for i in range(5,10):
+    print(i)
+
+#range(start,stop,step)
+for i in range(2,10,3):
     print(i)

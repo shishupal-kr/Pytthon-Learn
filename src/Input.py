@@ -1,9 +1,6 @@
-input("enter your name : ")
-
-Age = input("Enter you age: ")
+input("Enter your name : ") #input() without variable
+Age = input("Enter you age: ") #input with variable
 print("Your age is ", Age)
-
-
 
 #default value of input is string type
 #if you want to take input specific type of data
