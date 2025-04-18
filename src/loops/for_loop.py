@@ -16,7 +16,7 @@ else:
     print("end of list")
 
 
-#range() method -
+#range() method - work only for integer
 # for i in range(10): #range(stop)
 for i in range(10):
     print(i)
