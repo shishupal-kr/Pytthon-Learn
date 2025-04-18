@@ -10,7 +10,7 @@ def mul(a, b):
     return a * b
 
 def avg(a, b, c):
-    return (a + b +c) / 2
+    return (a + b + c) / 2
 
 
 print(sum(4, 5))
