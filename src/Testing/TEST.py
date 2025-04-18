@@ -53,7 +53,7 @@ print(add(9,3))
 print(mul(9,3))
 print(div(9,3))
 
-
+# loops
 print("----loops----")
 
 for i in range (2,20,2):
@@ -63,7 +63,7 @@ movie = "holly","bolly","tolly","jolly","colly"
 for i in movie:
     print(i)
 
-
+#conditional statements
 temp = (int(input("Enter temperature: ")))
 if temp <= 20:
     print("it is cold today..")
