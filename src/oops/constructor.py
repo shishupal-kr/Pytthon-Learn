@@ -1,6 +1,6 @@
 class car:
 
-#this is constructor, self is used by all programmer for common purpose but you an also change name
+#this is constructor, self is used by all programmer for common purpose but you can also change name
     def __init__(self,company):
         self.company = company
         print("car company is: ",company)

@@ -8,7 +8,7 @@ class Father:
         return "Driving"
 
 class Mother:
-    def skill(self):
+    def mother_skill(self):
         return "Cooking"
 
 # Child class (inherits from Father and Mother)
@@ -22,3 +22,4 @@ child = Child()
 # Access skills from both parent classes and child class
 print("Father's skill:", child.skill())
 print("Child's own skill:", child.own_skill())
+print("mother's own skill:", child.mother_skill())

@@ -1,12 +1,17 @@
 list = [1, 2, 3, 4, 5]
 name =  "shishupal","kumar"
-for item in list:
-    print(item)
+for i in list:
+    print(i)
 
 
 #for loops with else
-for item in name:
+for i in name:
     print(name)
+else:
+    print("end of list")
+
+for i in name:
+    print(i)
 else:
     print("end of list")
 

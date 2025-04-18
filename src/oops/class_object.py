@@ -2,7 +2,7 @@ class mac:
     company = "apple"
     model = "macbook air"
 
-#create a oobject of our mac class
+#create a object of our mac class
 mac1 = mac()
 
 print(mac1.company)

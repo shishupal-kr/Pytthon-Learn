@@ -5,12 +5,10 @@ print (a+b)
 print(a.capitalize())
 print(b[0:4])
 
-
 name = str(input("Enter you name: "))
 age = input("Enter your age: ")
 
 print("Your name is: ",name , "& Your age is: ",age)
-
 
 age =int(input("Enter you age: "))
 if(age == 18):
